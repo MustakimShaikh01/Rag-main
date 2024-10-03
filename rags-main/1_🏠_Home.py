@@ -13,7 +13,6 @@ current_state = get_current_state()
 #### STREAMLIT #####
 ####################
 
-
 st.set_page_config(
     page_title="Build a RAGs bot, powered by LlamaIndex",
     page_icon="🦙",
